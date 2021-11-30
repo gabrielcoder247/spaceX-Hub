@@ -1,4 +1,4 @@
- const NavBar = () => {
+export const NavBar = () => {
 
-     return null
- }
+    return null
+}
